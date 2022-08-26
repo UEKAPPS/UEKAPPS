@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ufuk Enes KURT</h1>
 <h3 align="center">A passionate android java developer from Turkey</h3>
 
-![hackerr](https://user-images.githubusercontent.com/83250239/186946386-186bd324-ec63-43f4-8056-209f2ee5472d.gif)
+<h3 align="center">![hackerr](https://user-images.githubusercontent.com/83250239/186946386-186bd324-ec63-43f4-8056-209f2ee5472d.gif)</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://uekapps.github.io/](https://uekapps.github.io/)
