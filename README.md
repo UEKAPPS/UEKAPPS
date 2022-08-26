@@ -4,7 +4,7 @@
 ## ![hackerr](https://user-images.githubusercontent.com/83250239/186946386-186bd324-ec63-43f4-8056-209f2ee5472d.gif)
 
 
-- 👨‍💻 All of my projects are available at [https://uekapps.github.io/](https://uekapps.github.io/)
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=7556614167716303725](https://play.google.com/store/apps/dev?id=7556614167716303725)
 
 - 💬 Ask me about **java**
 
