@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **appsuek@gmail.com**
 
-- 📄 Know about my experiences [www.kariyer.net/ozgecmis/ufukeneskurt](https://www.linkedin.com/in/uekapps/)
+- 📄 Know about my experiences [www.linkedin.com/in/uekapps](https://www.linkedin.com/in/uekapps/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
