@@ -130,6 +130,13 @@
 
 ###
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uekapps&show_icons=true&locale=en" alt="uekapps" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uekapps&" alt="uekapps" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=uekapps&show_icons=true&locale=en&layout=compact" alt="uekapps" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uekapps" alt="uekapps" /></a></p>
+
+
 <br clear="both">
 
 <div align="center">
