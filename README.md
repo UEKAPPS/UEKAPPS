@@ -156,12 +156,6 @@
 
 ###
 
-
-<div>
-<p align="center">https://github-profile-trophy.vercel.app/?username=uekapps&row=2&column=3</p> 
-</div> 
-
-
 <br/>  
   
 
